@@ -1,0 +1,6 @@
+personid,name,birthyear,movieid,role
+1,sowmya,1998,1,actor
+2,akash,2006,1,director
+3,roja,1978,1,producer
+4,lakshmi,1980,2,actor
+5,varun,1997,3,director
